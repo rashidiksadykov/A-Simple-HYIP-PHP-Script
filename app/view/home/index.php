@@ -1,10 +1,6 @@
-<body id="top" data-spy="scroll">
-
-
-
 <?php require $this->header; ?>
 
-
+<body id="top" data-spy="scroll">
 <div   style='height:100%; margin:0px; width:100%; background-image:url(<?=URL?>/public/images/slider/slider1.jpg); '>
 <div style='margin:0px'>
             <div style='padding-top:10%; padding-left:10px; width:400px; margin-left: 0 auto; margin-right: 0 auto;'>
