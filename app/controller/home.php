@@ -5,8 +5,8 @@ class home extends controller {
 
 		parent::__construct();
 
-		$this->view->header = "public/requires/header.php";
-		$this->view->footer = "public/requires/ofooter.php";
+		$this->view->header = "app/view/header.php";
+		$this->view->footer = "app/view/footer.php";
 	}
 
 	public function index() {
